@@ -1,3 +1,0 @@
-go fmt automatically reformats our source code to match the official Go style, ensuring consistent indentation and spacing across any codebase.
-
-go vet scans our code for suspicious constructs and common logic errors that the compiler might miss, such as mismatched Printf arguments or unreachable statements. It doesn't change our code, but it warns you about likely bugs before you run or ship our application.
